@@ -1,4 +1,4 @@
-# multiple_regression_workflow (多重回帰モデルの流れ作業)
+# multiple_regression_workflow (多重回帰モデルの流れ作業．もう2度と手順で悩まない！脳死で最適な多重回帰モデルを作れる！)
 
 多重回帰，回帰分析には流れ作業のような決まった手順通りにやるだけの作法がある．
 
