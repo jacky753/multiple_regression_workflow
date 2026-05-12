@@ -1,4 +1,4 @@
-# multiple_regression_workflow
+# multiple_regression_workflow (多重回帰モデルの流れ作業)
 
 多重回帰，回帰分析には流れ作業のような決まった手順通りにやるだけの作法がある．その理論，具体的な計算方法，実装についてプログラムとともに記載する．
 
