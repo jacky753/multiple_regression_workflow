@@ -111,7 +111,7 @@ https://ja.wikipedia.org/wiki/%E5%B0%A4%E5%BA%A6%E9%96%A2%E6%95%B0
 
 線形回帰では，
 
-−2log(L) ∝ log(RSS) ∝ log(1−R^2)
+-2ln(L) ∝ −2log(L) ∝ log(RSS) ∝ log(1−R^2)
 
 であるので，
 
