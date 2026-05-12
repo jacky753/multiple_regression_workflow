@@ -59,7 +59,7 @@ AIC = nlog(1−R^2) + 2k + 定数
 
 という関係です。
 
-また，決定係数(R^2)は説明変数が増えるほど大きくなりやすい傾向があるので，多重回帰ではadjusted R^2を使う
+また，決定係数(R^2)は説明変数が増えるほど大きくなりやすい傾向があるので，多重回帰ではadjusted R^2を使う．
 
 https://exploratory.io/note/exploratory/R2-tjU2NHv6
 
