@@ -162,3 +162,6 @@ https://www.ism.ac.jp/editsec/toukei/pdf/67-2-193.pdf
 
 尤度関数-2ln(L)と比例する関数 n log(1-R^2) についての作図は下記リンク先にアップロードした
 https://x.com/ysimazaki2025/status/2054421534710931491?s=46
+
+LASSO回帰，Ridge回帰を使えば特徴量選択，モデル選択も自動でやってくれるようですが，まだ調べているところです．後々に追記します．
+
